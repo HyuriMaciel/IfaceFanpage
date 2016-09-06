@@ -1,2 +1,2 @@
 # Ifacefanpage
-project social network Iface, module fan poge.
+Project social network Iface, module fan page.
