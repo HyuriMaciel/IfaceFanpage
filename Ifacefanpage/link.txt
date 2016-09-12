@@ -1,0 +1,2 @@
+Artigo para ajudar na configuração do Hibernate:
+http://www.k19.com.br/artigos/configurando-hibernate-com-mysql/
