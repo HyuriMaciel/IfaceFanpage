@@ -2,7 +2,7 @@ package testes;
 
 public class HelloWorld {
 	public static void main(String[] args) {
-		System.out.println("Hello world!"+" Blah"+" Blah 2"+"Teste");
+		System.out.println("Hello world!"+" Testing another time");
 	}
 
 }
