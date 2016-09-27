@@ -7,8 +7,11 @@ This project is part of academic studies about software project and java object 
 About author
 
 Guilherme Melo de Medeiros
+
 Computer Science
+
 IC - Instituto de Computação
+
 Ufal - Universidade Federal de Alagoas
 
 History
