@@ -23,5 +23,26 @@
 	<classpathentry kind="lib" path="lib/slf4j-api-1.7.21.jar"/>
 	<classpathentry kind="lib" path="lib/slf4j-log4j12-1.7.21.jar"/>
 	<classpathentry kind="lib" path="lib/swarmcache-1.0RC2.jar"/>
+	<classpathentry kind="lib" path="/Users/Administrator/git/Ifacefanpage/Ifacefanpage/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/Administrator/git/Ifacefanpage/Ifacefanpage/lib/spring-aop-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/Administrator/git/Ifacefanpage/Ifacefanpage/lib/spring-aspects-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/Administrator/git/Ifacefanpage/Ifacefanpage/lib/spring-beans-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/Administrator/git/Ifacefanpage/Ifacefanpage/lib/spring-context-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/Administrator/git/Ifacefanpage/Ifacefanpage/lib/spring-context-support-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/Administrator/git/Ifacefanpage/Ifacefanpage/lib/spring-core-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/Administrator/git/Ifacefanpage/Ifacefanpage/lib/spring-expression-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/Administrator/git/Ifacefanpage/Ifacefanpage/lib/spring-instrument-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/Administrator/git/Ifacefanpage/Ifacefanpage/lib/spring-instrument-tomcat-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/Administrator/git/Ifacefanpage/Ifacefanpage/lib/spring-jdbc-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/Administrator/git/Ifacefanpage/Ifacefanpage/lib/spring-jms-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/Administrator/git/Ifacefanpage/Ifacefanpage/lib/spring-messaging-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/Administrator/git/Ifacefanpage/Ifacefanpage/lib/spring-orm-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/Administrator/git/Ifacefanpage/Ifacefanpage/lib/spring-oxm-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/Administrator/git/Ifacefanpage/Ifacefanpage/lib/spring-test-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/Administrator/git/Ifacefanpage/Ifacefanpage/lib/spring-tx-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/Administrator/git/Ifacefanpage/Ifacefanpage/lib/spring-web-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/Administrator/git/Ifacefanpage/Ifacefanpage/lib/spring-webmvc-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/Administrator/git/Ifacefanpage/Ifacefanpage/lib/spring-webmvc-portlet-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/Administrator/git/Ifacefanpage/Ifacefanpage/lib/spring-websocket-4.1.6.RELEASE.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
