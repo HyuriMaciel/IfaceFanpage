@@ -38,3 +38,6 @@ https://angular.io/docs/ts/latest/quickstart.html#!#prereq
 
 Link do Node.js, necessário para o Angular:
 https://nodejs.org/en/download/
+
+Artigo ensinando a integrar Angular, Spring e Hibernate:
+http://www.concretepage.com/spring-4/spring-mvc-4-rest-angularjs-hibernate-4-integration-crud-tutorial-with-ngresource-example
