@@ -35,3 +35,6 @@ ANGULAR
 
 Quickstart:
 https://angular.io/docs/ts/latest/quickstart.html#!#prereq
+
+Link do Node.js, necessário para o Angular:
+https://nodejs.org/en/download/
