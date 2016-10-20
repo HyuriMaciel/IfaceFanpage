@@ -29,3 +29,9 @@ http://imasters.com.br/artigo/4497/java/spring_framework_introducao/
 
 Tutorial sobre o Spring:
 https://www.tutorialspoint.com/spring/index.htm
+
+/////////////////////////////////////////////////////////////////////////////
+ANGULAR
+
+Quickstart:
+https://angular.io/docs/ts/latest/quickstart.html#!#prereq
